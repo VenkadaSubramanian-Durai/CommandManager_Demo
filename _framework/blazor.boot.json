@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CommandManagerDemo",
   "resources": {
-    "hash": "sha256-c/JIC8tUGCAm3Z1tZcn5k4LgLi9smPGpyiHS4ZKW8lU=",
+    "hash": "sha256-xVNc1pIRXhMJ+7ge/BOu95WNsxgoiqJMBJvTjTJpNNo=",
     "jsModuleNative": {
       "dotnet.native.8.0.1.bp74klgc3z.js": "sha256-aQ1mZqFyGczy0iBzVUH4o4pW1Nf74Dcy2AtIICmnwL4="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "CommandManagerDemo.wasm": "sha256-hNIgTPQSFFB5yMxbljaGQ5/CkzA6vKZrkXG+yKyzW7Q=",
+      "CommandManagerDemo.wasm": "sha256-8R/c+GMnXRLY4Uj9pIwcMie/Z/kmc3ZkMgS0dG7Knrg=",
       "HarfBuzzSharp.wasm": "sha256-clQK7OK3G6exfxB4Cln4JNN1CzIvlVTXL2O8Z+r7tHA=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-tBwPCD+9ID6vHKK60ODxWNOxaYixjQzpdrlaJRKu4Pg=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-HkxmoJpZniPnUgcoOA2ebqFG3kHTp/wgp7X+UDR6AkA=",
@@ -57,7 +57,7 @@
       "Syncfusion.Blazor.Navigations.wasm": "sha256-EeMuxI2TFQHDPzbyijlGvIJS+4zAT8lZAmG/ypsFvFI=",
       "Syncfusion.Blazor.Notifications.wasm": "sha256-BFWsb9EaTxhAVkhFIZ/TY/PJ2J0AK1umkqU0W9Yi2Jo=",
       "Syncfusion.Blazor.Popups.wasm": "sha256-uChpVaQMNm2lYdn4G729kVAbpmCjWeX9e6dgGbl63Ig=",
-      "Syncfusion.Blazor.SfPdfViewer.wasm": "sha256-7fnN8Dt4KiplXwtkalU/EvjnfjRm8xDKT1gPITKNles=",
+      "Syncfusion.Blazor.SfPdfViewer.wasm": "sha256-aqem+LCpQGsYJfGS3I1oltvN/smTQwNDDryWGQKMdKM=",
       "Syncfusion.Blazor.Spinner.wasm": "sha256-awkdXXBmBxIYR4nAJ8bbq6JPkyRYZ4SLjpWCWC1XN78=",
       "Syncfusion.Blazor.SplitButtons.wasm": "sha256-DGCLFMLgdh6pY1Uq85KAB92jcwSiCjNeLP6CuVjnYKU=",
       "Syncfusion.Blazor.Themes.wasm": "sha256-EG88pdjG4OMwpfgXz27Ub7tqUJ2nI/Hv3J6uRIspj3A=",

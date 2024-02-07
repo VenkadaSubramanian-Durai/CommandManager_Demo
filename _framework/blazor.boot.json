@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CommandManagerDemo",
   "resources": {
-    "hash": "sha256-wnBmq6ghf2bNnHOHcAE3mIoz9ncRyjeFZTRe+skMC98=",
+    "hash": "sha256-c/JIC8tUGCAm3Z1tZcn5k4LgLi9smPGpyiHS4ZKW8lU=",
     "jsModuleNative": {
       "dotnet.native.8.0.1.bp74klgc3z.js": "sha256-aQ1mZqFyGczy0iBzVUH4o4pW1Nf74Dcy2AtIICmnwL4="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "CommandManagerDemo.wasm": "sha256-syregHR+M6t7+58eBpJBKnCftbsQgXc5f1tV/Gv5ATM=",
+      "CommandManagerDemo.wasm": "sha256-hNIgTPQSFFB5yMxbljaGQ5/CkzA6vKZrkXG+yKyzW7Q=",
       "HarfBuzzSharp.wasm": "sha256-clQK7OK3G6exfxB4Cln4JNN1CzIvlVTXL2O8Z+r7tHA=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-tBwPCD+9ID6vHKK60ODxWNOxaYixjQzpdrlaJRKu4Pg=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-HkxmoJpZniPnUgcoOA2ebqFG3kHTp/wgp7X+UDR6AkA=",

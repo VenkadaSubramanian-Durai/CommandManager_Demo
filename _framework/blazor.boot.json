@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CommandManagerDemo",
   "resources": {
-    "hash": "sha256-RcLI0AKMOBuLkNyMOTCW8z/3UafbmlpeECQTnXfLnkc=",
+    "hash": "sha256-Sp2hK1c5tGl2VbWeBspr+EyWgB8cLeU+tGfyfgp0K8U=",
     "jsModuleNative": {
       "dotnet.native.8.0.1.bp74klgc3z.js": "sha256-aQ1mZqFyGczy0iBzVUH4o4pW1Nf74Dcy2AtIICmnwL4="
     },
@@ -9,7 +9,7 @@
       "dotnet.runtime.8.0.1.rswtxkdyko.js": "sha256-HZOoaGpz9ekMa/oSmeApSKp3DXNdVUq2UBqsTIIiN8A="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-EOBcpbEteTrK2/EmCbMXCWS+qIA5fTvI5InojZDczpQ="
+      "dotnet.native.wasm": "sha256-wtajWSaXAq9lk+VhixdqYAWTTnBaaV9iILSSglvmGZI="
     },
     "icu": {
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -17,11 +17,11 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "CommandManagerDemo.wasm": "sha256-QpdmNHO3Kz9WPvHAz7TmvSkYRVSoFtPoU3XXQMTbllA=",
+      "CommandManagerDemo.wasm": "sha256-3s6f3Bp3shk45SzlHXLgWvTTMAsXmLg/w51q0G/3nMw=",
       "HarfBuzzSharp.wasm": "sha256-clQK7OK3G6exfxB4Cln4JNN1CzIvlVTXL2O8Z+r7tHA=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-tBwPCD+9ID6vHKK60ODxWNOxaYixjQzpdrlaJRKu4Pg=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-HkxmoJpZniPnUgcoOA2ebqFG3kHTp/wgp7X+UDR6AkA=",
-      "Microsoft.AspNetCore.Components.Web.wasm": "sha256-BMMXnleyk4Gux7m2A7ehZPXtcuCpeJT+x0VmpByRaRU=",
+      "Microsoft.AspNetCore.Components.Web.wasm": "sha256-pxbaXfMaZOcSCwymzOLdN45YXhRwhslIRt8fBTfocUM=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-m85UYBPNwfN/zmmhcimbu42a3C6j2xksqcFIRLzuUAw=",
       "Microsoft.AspNetCore.Http.Abstractions.wasm": "sha256-aPjR8YQYZRQOCbPYFnx/tOBYEqSXaAF/F/Cd883tTH4=",
       "Microsoft.AspNetCore.Http.Features.wasm": "sha256-hF86nD892lo0u26YKc0I78W2vbzPNsSJRdXv/fpfy60=",
@@ -57,7 +57,7 @@
       "Syncfusion.Blazor.Navigations.wasm": "sha256-EeMuxI2TFQHDPzbyijlGvIJS+4zAT8lZAmG/ypsFvFI=",
       "Syncfusion.Blazor.Notifications.wasm": "sha256-BFWsb9EaTxhAVkhFIZ/TY/PJ2J0AK1umkqU0W9Yi2Jo=",
       "Syncfusion.Blazor.Popups.wasm": "sha256-uChpVaQMNm2lYdn4G729kVAbpmCjWeX9e6dgGbl63Ig=",
-      "Syncfusion.Blazor.SfPdfViewer.wasm": "sha256-SVv9VAv9nzi/cYUxapWdRzjwPkNygPwpj70kSHnJHl4=",
+      "Syncfusion.Blazor.SfPdfViewer.wasm": "sha256-nTtRpZ+/hVxLvLDocogjAF9Oh9MfWCrYQkDfzyJqfqE=",
       "Syncfusion.Blazor.Spinner.wasm": "sha256-awkdXXBmBxIYR4nAJ8bbq6JPkyRYZ4SLjpWCWC1XN78=",
       "Syncfusion.Blazor.SplitButtons.wasm": "sha256-DGCLFMLgdh6pY1Uq85KAB92jcwSiCjNeLP6CuVjnYKU=",
       "Syncfusion.Blazor.Themes.wasm": "sha256-EG88pdjG4OMwpfgXz27Ub7tqUJ2nI/Hv3J6uRIspj3A=",
